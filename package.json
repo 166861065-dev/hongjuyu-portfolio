@@ -1,0 +1,13 @@
+{
+  "name": "hongjuyu-portfolio",
+  "version": "1.0.0",
+  "description": "洪居育的产品设计作品集",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
